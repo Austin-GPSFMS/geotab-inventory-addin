@@ -1,0 +1,9 @@
+{
+    "name": "Inventory Manager",
+    "version": "1.0",
+    "isMenuItem": true,
+    "allowCustom": true,
+    "url": "https://austin-gpsfms.github.io/geotab-inventory-addin/inventoryManager.js",
+    "path": "inventoryManager",
+    "icon": "geotab_icons/ic_maintainance.svg"
+}
