@@ -4,11 +4,12 @@
     "version": "1.0",
     "items": [
         {
-            "url": "https://austin-gpsfms.github.io/geotab-inventory-addin/inventoryManager.js",
+            "url": "https://austin-gpsfms.github.io/geotab-inventory-addin/index.html",
             "path": "ActivityLink/",
             "menuName": {
                 "en": "Inventory Manager"
-            }
+            },
+            "icon": "https://austin-gpsfms.github.io/geotab-inventory-addin/icon.svg"
         }
     ],
     "isSigned": false,
