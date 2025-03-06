@@ -4,6 +4,6 @@
     "isMenuItem": true,
     "allowCustom": true,
     "url": "https://austin-gpsfms.github.io/geotab-inventory-addin/inventoryManager.js",
-    "path": "inventoryManager",
+    "path": "ActivityLink/",
     "icon": "geotab_icons/ic_maintainance.svg"
 }
