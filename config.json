@@ -1,9 +1,16 @@
 {
     "name": "Inventory Manager",
+    "supportEmail": "austin@gpsfms.com",
     "version": "1.0",
-    "isMenuItem": true,
-    "allowCustom": true,
-    "url": "https://austin-gpsfms.github.io/geotab-inventory-addin/inventoryManager.js",
-    "path": "ActivityLink/",
-    "icon": "geotab_icons/ic_maintainance.svg"
+    "items": [
+        {
+            "url": "https://austin-gpsfms.github.io/geotab-inventory-addin/inventoryManager.js",
+            "path": "ActivityLink/",
+            "menuName": {
+                "en": "Inventory Manager"
+            }
+        }
+    ],
+    "isSigned": false,
+    "enableViewSecurityId": true
 }
